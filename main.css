@@ -1,0 +1,19 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body { 
+    color: rebeccapurple;
+    padding: 30px;
+}
+
+h1 {
+    font-family: sans-serif;
+}
+
+.holder-type {
+    color: orange;
+    margin: 30px;
+}
